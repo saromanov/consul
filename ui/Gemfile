@@ -1,6 +1,6 @@
 # A sample Gemfile
 source "https://rubygems.org"
 
-gem "uglifier"
+gem "uglifier", ">= 2.7.0"
 gem "sass"
 gem "therubyracer"
